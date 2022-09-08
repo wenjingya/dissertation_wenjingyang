@@ -20,12 +20,36 @@
 
 - reviews-line.chart-SH.csv - evolution of review percentage in different languages
 
-- input.csv - input of LDA & sentiment analysis
+- input.csv - LDA & sentiment analysis
 
 **Beijing review data**:
 
+- 44.csv - LDA & sentiment analysis
 
+- BJ-reviews.csv - language detection
+
+- BJ.csv - number of reviews every three month
+
+- sentiment graph.csv - sentiment analysis
+
+- topic.line.chart.Chinese.csv - percentage change of topics (in Chinese reviews)
+
+- topic.line.chart.English.csv - percentage change of topics (in English reviews)
 
 **Hong Kong review data**:
 
-- input.csv - input of LDA & sentiment analysis
+- Chinese.copy.2.csv - intermediate file to store Chinese reviews before translation
+
+- HK-reviews.csv - language detection
+
+- HK.csv - number of reviews every three month
+
+- input.csv - LDA & sentiment analysis
+
+- reviews-line.chart.csv - evolution of review percentage in different languages
+
+- sentiment.graph.csv - sentiment analysis
+
+- topic.line.chart.Chinese.csv - percentage change of topics (in Chinese reviews)
+
+- topic.line.chart.English.csv - percentage change of topics (in English reviews)
