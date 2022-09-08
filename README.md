@@ -1,8 +1,6 @@
 # dissertation_wenjingyang
 
-****Note: all csv files and Part 2 code are in 'Releases'****
-
-csv files and its usage in the project is as follows:
+****Note: all csv files and Part 2 code are in 'Releases', csv files and its usage in the project is as follows:****
 
 **Shanghai review data**:
 
