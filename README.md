@@ -14,4 +14,4 @@ Chinese-SH.copy.csv - all Chinese reviews before data cleansing
 topic.line.chart.Chinese.csv - percentage change of topics (in Chinese reviews)
 topic.line.chart.English.csv - percentage change of topics (in English reviews)
 reviews-line.chart-SH.csv - evolution of review percentage in different languages
-
+input.csv - input of LDA & sentiment analysis
