@@ -6,7 +6,7 @@
 
 - sentiment graph.csv - sentiment analysis
 
-- SH-review.csv -language detection
+- SH-review.csv - language detection
 
 - SH.csv - number of reviews every three month
 
@@ -19,5 +19,13 @@
 - topic.line.chart.English.csv - percentage change of topics (in English reviews)
 
 - reviews-line.chart-SH.csv - evolution of review percentage in different languages
+
+- input.csv - input of LDA & sentiment analysis
+
+**Beijing review data**:
+
+
+
+**Hong Kong review data**:
 
 - input.csv - input of LDA & sentiment analysis
