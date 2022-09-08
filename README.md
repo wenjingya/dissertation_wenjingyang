@@ -6,7 +6,7 @@ csv files and its usage in the project is as follows:
 
 **Shanghai review data**:
 
-sentiment graph.csv - sentiment analysis
+*sentiment graph.csv - sentiment analysis
 
 SH-review.csv -language detection
 
